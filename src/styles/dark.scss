@@ -1,0 +1,29 @@
+.app.dark {
+  background-color: #2d3436;
+  color: #fff;
+
+  .items .item .icon,
+  .items .item span {
+    color: #fff;
+  }
+
+  .progressBar {
+    .title {
+      color: #fff !important;
+    }
+    .center {
+      color: #fff !important;
+    }
+    .itemTitle {
+      color: #fff;
+    }
+  }
+
+  .chart{
+    color: #fff !important;
+  }
+  .dataTable .dataGrid{
+    color: #fff !important;
+
+  }
+}
